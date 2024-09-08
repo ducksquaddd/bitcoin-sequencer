@@ -1,0 +1,3 @@
+[submodule "bcoin"]
+	path = bcoin
+	url = https://github.com/bcoin-org/bcoin

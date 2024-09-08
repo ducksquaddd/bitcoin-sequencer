@@ -1,0 +1,5 @@
+/.secret
+/db
+/node_modules
+/testing
+/bcoin

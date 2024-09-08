@@ -1,0 +1,9 @@
+{
+  "network": "testnet",
+  "feePerByte": 1,
+  "blockLengthToBundle": 1,
+  "maxTxRequest": 1000,
+  "httpPort": 2880,
+  "udpPort": 2881,
+  "trustedNode": "ws://localhost:3000/events"
+}
